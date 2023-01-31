@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1010px" height="710px" viewBox="0 0 1010 710" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Browser Illustration</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="770" height="470" rx="8"></rect>
+        <filter x="-27.3%" y="-31.9%" width="154.5%" height="189.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="60" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="60" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0352941176   0 0 0 0 0.0549019608   0 0 0 0 0.0941176471  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="542" height="54" rx="4"></rect>
+        <filter x="-12.9%" y="-92.6%" width="125.8%" height="359.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0352941176   0 0 0 0 0.0549019608   0 0 0 0 0.0941176471  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-1-10" transform="translate(-215.000000, -577.000000)">
+            <g id="Browser" transform="translate(241.000000, 608.000000)">
+                <g id="Browser-Illustration" transform="translate(94.000000, 29.000000)">
+                    <g id="Bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F4F6F8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Content" transform="translate(44.000000, 60.000000)">
+                        <g id="Right" transform="translate(104.000000, 0.000000)">
+                            <g id="Bg" transform="translate(20.000000, 0.000000)" fill="#FFFFFF">
+                                <rect x="0" y="0" width="582" height="390" rx="8"></rect>
+                            </g>
+                            <g id="Card" transform="translate(40.000000, 20.000000)">
+                                <rect id="Rectangle" fill="#E4E7EA" x="0" y="0" width="542" height="54" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="15" width="80" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="29" width="138" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#FFFFFF" x="15" y="15" width="24" height="24" rx="12"></rect>
+                                <rect id="Rectangle" fill="#4043FF" x="503" y="15" width="24" height="24" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="464" y="15" width="24" height="24" rx="4"></rect>
+                            </g>
+                            <g id="Card" transform="translate(40.000000, 94.000000)">
+                                <rect id="Rectangle" fill="#E4E7EA" x="0" y="0" width="542" height="54" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="15" width="80" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="29" width="138" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#FFFFFF" x="15" y="15" width="24" height="24" rx="12"></rect>
+                                <rect id="Rectangle" fill="#4043FF" x="503" y="15" width="24" height="24" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="464" y="15" width="24" height="24" rx="4"></rect>
+                            </g>
+                            <g id="Card" transform="translate(40.000000, 242.000000)">
+                                <rect id="Rectangle" fill="#E4E7EA" x="0" y="0" width="542" height="54" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="15" width="80" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="29" width="138" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#FFFFFF" x="15" y="15" width="24" height="24" rx="12"></rect>
+                                <rect id="Rectangle" fill="#4043FF" x="503" y="15" width="24" height="24" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="464" y="15" width="24" height="24" rx="4"></rect>
+                            </g>
+                            <g id="Card" transform="translate(40.000000, 316.000000)">
+                                <rect id="Rectangle" fill="#E4E7EA" x="0" y="0" width="542" height="54" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="15" width="80" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="29" width="138" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#FFFFFF" x="15" y="15" width="24" height="24" rx="12"></rect>
+                                <rect id="Rectangle" fill="#4043FF" x="503" y="15" width="24" height="24" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="464" y="15" width="24" height="24" rx="4"></rect>
+                            </g>
+                            <g id="Card-Hover" transform="translate(0.000000, 168.000000)">
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                                <rect id="Rectangle" fill="#576078" x="54" y="15" width="80" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="54" y="29" width="138" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#576078" x="15" y="15" width="24" height="24" rx="12"></rect>
+                                <rect id="Rectangle" fill="#3BE4CE" x="467" y="15" width="60" height="24" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="428" y="15" width="24" height="24" rx="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Left" transform="translate(0.000000, 34.000000)">
+                            <g id="Circles" transform="translate(0.000000, 302.000000)" fill="#BDC3CA">
+                                <path d="M10,0 C15.5228475,-1.01453063e-15 20,4.4771525 20,10 C20,15.5228475 15.5228475,20 10,20 C4.4771525,20 6.76353751e-16,15.5228475 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z M40,0 C45.5228475,-1.01453063e-15 50,4.4771525 50,10 C50,15.5228475 45.5228475,20 40,20 C34.4771525,20 30,15.5228475 30,10 C30,4.4771525 34.4771525,1.01453063e-15 40,0 Z M70,0 C75.5228475,-1.01453063e-15 80,4.4771525 80,10 C80,15.5228475 75.5228475,20 70,20 C64.4771525,20 60,15.5228475 60,10 C60,4.4771525 64.4771525,1.01453063e-15 70,0 Z" id="Combined-Shape"></path>
+                            </g>
+                            <g id="User">
+                                <rect id="Rectangle" fill="#576078" x="0" y="80" width="80" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#BDC3CA" x="17" y="100" width="47" height="10" rx="4"></rect>
+                                <rect id="Rectangle" fill="#576078" x="10" y="0" width="60" height="60" rx="30"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Top">
+                        <path d="M770,40 L0,40 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 L762,0 C766.418278,-8.11624501e-16 770,3.581722 770,8 L770,40 Z" id="Combined-Shape" fill="#E4E7EA"></path>
+                        <path d="M20,15 C22.7614237,15 25,17.2385763 25,20 C25,22.7614237 22.7614237,25 20,25 C17.2385763,25 15,22.7614237 15,20 C15,17.2385763 17.2385763,15 20,15 Z M35,15 C37.7614237,15 40,17.2385763 40,20 C40,22.7614237 37.7614237,25 35,25 C32.2385763,25 30,22.7614237 30,20 C30,17.2385763 32.2385763,15 35,15 Z M50,15 C52.7614237,15 55,17.2385763 55,20 C55,22.7614237 52.7614237,25 50,25 C47.2385763,25 45,22.7614237 45,20 C45,17.2385763 47.2385763,15 50,15 Z" id="Combined-Shape" fill="#BDC3CA"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

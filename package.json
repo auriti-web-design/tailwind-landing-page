@@ -1,0 +1,40 @@
+{
+  "name": "ladingpages",
+  "version": "1.0.0",
+  "description": "tailwindcss responsive landing pages for startup, corporate or product promotion ",
+  "main": "build/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tw": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch",
+    "prettier": "npx prettier --write ./build/*.html"
+  },
+  "keywords": [
+    "tailwindcss",
+    "landing",
+    "page",
+    "startup",
+    "landing",
+    "page",
+    "product",
+    "landing",
+    "page",
+    "responsive",
+    "flex",
+    "css",
+    "grid",
+    "flexbox",
+    "dark",
+    "theme",
+    "light",
+    "theme",
+    "customization"
+  ],
+  "author": "Juan Camilo Auriti",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "prettier": "^2.8.3"
+  }
+}
