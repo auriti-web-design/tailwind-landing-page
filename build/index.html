@@ -3,8 +3,53 @@
   <head>
     <meta charset="UTF-8" />
     <title>Tailwind CSS Landing Page</title>
+    <link rel="stylesheet" href="css/style.css" />
   </head>
-  <body>
-    <h1 class="text-9xl">Titolo</h1>
+  <body class="antialiased">
+    <header class="w-full border-b absolute sticky border-b-gray-200 flex items-center py-1.5 shadow-xl shadow-gray-200/50">
+      <div class="container mx-auto max-w-6xl flex items-center justify-between py-2">
+        <div class="container mx-auto py-2">
+          <a href="#" class="font-bold text-2xl text-slate-700 hover:text-slate-900">🚀 Landingpage</a>
+        </div>
+        <div class="container mx-auto py-2">
+          <nav class="container mx-auto flex justify-around text-lg font-normal text-slate-500">
+            <a href="" class="text-slate-500 font-normal tracking-wide leading-8 hover:font-normal hover:text-slate-700">Features</a>
+            <a href="" class="text-slate-500 font-normal tracking-wide leading-8 hover:font-normal hover:text-slate-700">Reviews</a>
+            <a href="" class="text-slate-500 font-normal tracking-wide leading-8 hover:font-normal hover:text-slate-700">Pricing</a>
+            <a href="" class="text-slate-500 font-normal tracking-wide leading-8 hover:font-normal hover:text-slate-700">Pages</a>
+          </nav>
+        </div>
+        <div class="container mx-auto py-2 flex justify-end">
+          <a href="" class="py-2.5 px-6 bg-blue-500 text-lg text-slate-50 rounded-md">
+            Get Started
+          </a>
+        </div>
+      </div>
+    </header>
+    <main class="w-full flex items-center flex-row">
+      <div class="container mx-auto max-w-6xl">
+        <div class="container mx-auto py-12">
+          <h1 class="text-center text-7xl font-black tracking-wide leading-normal text-slate-800">Landing page template for Startups</h1>
+        </div>
+        <div class="container mx-auto pb-12 max-w-5xl">
+          <p class="text-4xl font-normal text-slate-600 tracking-wide text-center">
+            Design amazing landing pages for your next startup, explore free & premium templates
+          </p>
+        </div>
+        <div class="container mx-auto py-8">
+          <form action="" method="">
+            <div class="container flex gap-12 justify-center items-center w-full px-48">
+              <input type="text" name="" id="" class="w-auto bg-[#F4F6F8] px-4 py-4 w-1/2 text-lg placeholder:text-lg rounded-md" placeholder="Enter you email address">
+              <input type="submit" value="Get Started"
+                     class="w-auto font-medium text-lg px-14 py-4 bg-blue-500 text-slate-50
+                     rounded-md shadow-[0_35px_15px_-25px_rgba(0,0,0,0.3)] shadow-blue-600/75 cursor-pointer">
+            </div>
+          </form>
+        </div>
+      </div>
+    </main>
+    <section id="features" class="w-full bg-gray-300">
+
+    </section>
   </body>
 </html>
